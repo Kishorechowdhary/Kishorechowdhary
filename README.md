@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishorechowdhary
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 
 - 
 - 
 - 
